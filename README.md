@@ -33,6 +33,7 @@ The chatbot leverages pre-built text generation pipelines (e.g., Hugging Face Tr
 ---
 
 Formatting the prompt as an instruction：
+
 1.Before formatting the prompt, the generated output was:
 
 myenv(base) yolopei@yolodemacbook-air assignment2 % python call_api.py
