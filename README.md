@@ -1,5 +1,36 @@
-Name: Zheng Pei
-Matriculation number: 24-747-818
+# 🤖 Text Generation Chatbot Project
+
+This repository contains a small project developed as part of a **Text Generation** course. The project implements a simple chatbot powered by modern NLP pipelines and external APIs.
+
+---
+
+## 📝 Project Overview
+
+The chatbot leverages pre-built text generation pipelines (e.g., Hugging Face Transformers) and API integrations to provide conversational responses. It demonstrates how to:
+
+- Use NLP pipelines for generating coherent, context-aware text
+- Integrate third-party APIs for enhanced functionality
+- Build a lightweight backend system to handle user inputs and bot replies
+
+---
+
+## 🚀 Features
+
+- Interactive chatbot interface (CLI or web-based, depending on implementation)
+- Text generation powered by transformer models
+- Modular pipeline architecture for easy extension
+- API calls integrated for external data or AI services
+
+---
+
+## 🛠️ Tech Stack
+
+- Python (core programming language)
+- Hugging Face Transformers / Pipelines
+- Requests / HTTP client libraries
+- Lightweight front-end frameworks like Gradio
+
+---
 
 Formatting the prompt as an instruction：
 1.Before formatting the prompt, the generated output was:
